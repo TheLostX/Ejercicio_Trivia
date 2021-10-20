@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Bienvenidooo!!!</string>
+    <string name="winner_text">Has Ganado!!!</string>
+    <string name="btn_volver">Volver a intentarlo</string>
+</resources>
